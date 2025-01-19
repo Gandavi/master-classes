@@ -1,0 +1,9 @@
+:root{
+    --main-color: #000080;
+    --second-color: #FFFFFF;
+    --thrid-color: #0000FF;
+}
+body{
+    background-color: var(--main-color);
+    color: var(--second-color);
+}
